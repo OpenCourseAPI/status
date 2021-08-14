@@ -12,13 +12,13 @@ status-website:
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/40309595?s=200&v=4
   name: OpenCourseAPI
-  introTitle: "[**OpenCourseAPI**](https://github.com/$OWNER/$REPO) is really cool. Check it out."
+  introTitle: ""
   introMessage: ""
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
