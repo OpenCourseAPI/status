@@ -1,5 +1,23 @@
 [
   {
+    "name": "API",
+    "url": "https://opencourse.dev/fh",
+    "icon": "https://favicons.githubusercontent.com/opencourse.dev",
+    "slug": "api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 216,
+    "timeDay": 216,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Website",
     "url": "https://opencourse.dev",
     "icon": "https://favicons.githubusercontent.com/opencourse.dev",
