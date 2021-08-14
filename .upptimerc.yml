@@ -2,6 +2,8 @@ owner: OpenCourseAPI
 repo: status
 
 sites:
+  - name: API
+    url: https://opencourse.dev/fh # TODO: add actual health check endpoint
   - name: Website
     url: https://opencourse.dev
 
@@ -9,8 +11,8 @@ status-website:
   # cname: status.opencourse.dev
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/40309595?s=200&v=4
-  name: OpeCourseAPI
-  introTitle: "**OpenCourseAPI** is cool."
+  name: OpenCourseAPI
+  introTitle: "[**OpenCourseAPI**](https://github.com/$OWNER/$REPO) is really cool. Check it out."
   introMessage: ""
   navbar:
     - title: Status
